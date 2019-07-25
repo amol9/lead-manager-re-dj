@@ -7,5 +7,7 @@ local_settings.py
 db.sqlite3
 media
 
-#temp
-frontend
+node_modules
+
+# not sure if to be excluded
+pnpm-lock.yaml
